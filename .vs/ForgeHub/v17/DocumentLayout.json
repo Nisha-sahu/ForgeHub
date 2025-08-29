@@ -1,0 +1,900 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\masstech\\Final_project\\ForgeHub\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1AFA622D-9224-4219-B7F3-AAAF80F7486A}|ForgeHub\\ForgeHub.csproj|d:\\masstech\\final_project\\forgehub\\forgehub\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1AFA622D-9224-4219-B7F3-AAAF80F7486A}|ForgeHub\\ForgeHub.csproj|solutionrelative:forgehub\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AFA622D-9224-4219-B7F3-AAAF80F7486A}|ForgeHub\\ForgeHub.csproj|d:\\masstech\\final_project\\forgehub\\forgehub\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AFA622D-9224-4219-B7F3-AAAF80F7486A}|ForgeHub\\ForgeHub.csproj|solutionrelative:forgehub\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AFA622D-9224-4219-B7F3-AAAF80F7486A}|ForgeHub\\ForgeHub.csproj|d:\\masstech\\final_project\\forgehub\\forgehub\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1AFA622D-9224-4219-B7F3-AAAF80F7486A}|ForgeHub\\ForgeHub.csproj|solutionrelative:forgehub\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AFA622D-9224-4219-B7F3-AAAF80F7486A}|ForgeHub\\ForgeHub.csproj|d:\\masstech\\final_project\\forgehub\\forgehub\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AFA622D-9224-4219-B7F3-AAAF80F7486A}|ForgeHub\\ForgeHub.csproj|solutionrelative:forgehub\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AFA622D-9224-4219-B7F3-AAAF80F7486A}|ForgeHub\\ForgeHub.csproj|d:\\masstech\\final_project\\forgehub\\forgehub\\jwttoken\\jwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AFA622D-9224-4219-B7F3-AAAF80F7486A}|ForgeHub\\ForgeHub.csproj|solutionrelative:forgehub\\jwttoken\\jwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AFA622D-9224-4219-B7F3-AAAF80F7486A}|ForgeHub\\ForgeHub.csproj|d:\\masstech\\final_project\\forgehub\\forgehub\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1AFA622D-9224-4219-B7F3-AAAF80F7486A}|ForgeHub\\ForgeHub.csproj|solutionrelative:forgehub\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AFA622D-9224-4219-B7F3-AAAF80F7486A}|ForgeHub\\ForgeHub.csproj|d:\\masstech\\final_project\\forgehub\\forgehub\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AFA622D-9224-4219-B7F3-AAAF80F7486A}|ForgeHub\\ForgeHub.csproj|solutionrelative:forgehub\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AFA622D-9224-4219-B7F3-AAAF80F7486A}|ForgeHub\\ForgeHub.csproj|d:\\masstech\\final_project\\forgehub\\forgehub\\wwwroot\\js\\addmultipleitems.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{1AFA622D-9224-4219-B7F3-AAAF80F7486A}|ForgeHub\\ForgeHub.csproj|solutionrelative:forgehub\\wwwroot\\js\\addmultipleitems.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AFA622D-9224-4219-B7F3-AAAF80F7486A}|ForgeHub\\ForgeHub.csproj|d:\\masstech\\final_project\\forgehub\\forgehub\\views\\admin\\addrfq.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1AFA622D-9224-4219-B7F3-AAAF80F7486A}|ForgeHub\\ForgeHub.csproj|solutionrelative:forgehub\\views\\admin\\addrfq.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AFA622D-9224-4219-B7F3-AAAF80F7486A}|ForgeHub\\ForgeHub.csproj|d:\\masstech\\final_project\\forgehub\\forgehub\\views\\admin\\fetchrfq.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1AFA622D-9224-4219-B7F3-AAAF80F7486A}|ForgeHub\\ForgeHub.csproj|solutionrelative:forgehub\\views\\admin\\fetchrfq.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AFA622D-9224-4219-B7F3-AAAF80F7486A}|ForgeHub\\ForgeHub.csproj|d:\\masstech\\final_project\\forgehub\\forgehub\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AFA622D-9224-4219-B7F3-AAAF80F7486A}|ForgeHub\\ForgeHub.csproj|solutionrelative:forgehub\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AFA622D-9224-4219-B7F3-AAAF80F7486A}|ForgeHub\\ForgeHub.csproj|d:\\masstech\\final_project\\forgehub\\forgehub\\models\\rfq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AFA622D-9224-4219-B7F3-AAAF80F7486A}|ForgeHub\\ForgeHub.csproj|solutionrelative:forgehub\\models\\rfq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AFA622D-9224-4219-B7F3-AAAF80F7486A}|ForgeHub\\ForgeHub.csproj|d:\\masstech\\final_project\\forgehub\\forgehub\\controllers\\buyercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AFA622D-9224-4219-B7F3-AAAF80F7486A}|ForgeHub\\ForgeHub.csproj|solutionrelative:forgehub\\controllers\\buyercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AFA622D-9224-4219-B7F3-AAAF80F7486A}|ForgeHub\\ForgeHub.csproj|d:\\masstech\\final_project\\forgehub\\forgehub\\controllers\\vendorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AFA622D-9224-4219-B7F3-AAAF80F7486A}|ForgeHub\\ForgeHub.csproj|solutionrelative:forgehub\\controllers\\vendorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AFA622D-9224-4219-B7F3-AAAF80F7486A}|ForgeHub\\ForgeHub.csproj|d:\\masstech\\final_project\\forgehub\\forgehub\\controllers\\addusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AFA622D-9224-4219-B7F3-AAAF80F7486A}|ForgeHub\\ForgeHub.csproj|solutionrelative:forgehub\\controllers\\addusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AFA622D-9224-4219-B7F3-AAAF80F7486A}|ForgeHub\\ForgeHub.csproj|d:\\masstech\\final_project\\forgehub\\forgehub\\wwwroot\\js\\users.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{1AFA622D-9224-4219-B7F3-AAAF80F7486A}|ForgeHub\\ForgeHub.csproj|solutionrelative:forgehub\\wwwroot\\js\\users.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AFA622D-9224-4219-B7F3-AAAF80F7486A}|ForgeHub\\ForgeHub.csproj|d:\\masstech\\final_project\\forgehub\\forgehub\\wwwroot\\js\\selectall.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{1AFA622D-9224-4219-B7F3-AAAF80F7486A}|ForgeHub\\ForgeHub.csproj|solutionrelative:forgehub\\wwwroot\\js\\selectall.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AFA622D-9224-4219-B7F3-AAAF80F7486A}|ForgeHub\\ForgeHub.csproj|d:\\masstech\\final_project\\forgehub\\forgehub\\views\\auth\\verifyotp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1AFA622D-9224-4219-B7F3-AAAF80F7486A}|ForgeHub\\ForgeHub.csproj|solutionrelative:forgehub\\views\\auth\\verifyotp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AFA622D-9224-4219-B7F3-AAAF80F7486A}|ForgeHub\\ForgeHub.csproj|d:\\masstech\\final_project\\forgehub\\forgehub\\views\\adduser\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1AFA622D-9224-4219-B7F3-AAAF80F7486A}|ForgeHub\\ForgeHub.csproj|solutionrelative:forgehub\\views\\adduser\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AFA622D-9224-4219-B7F3-AAAF80F7486A}|ForgeHub\\ForgeHub.csproj|d:\\masstech\\final_project\\forgehub\\forgehub\\views\\vendor\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1AFA622D-9224-4219-B7F3-AAAF80F7486A}|ForgeHub\\ForgeHub.csproj|solutionrelative:forgehub\\views\\vendor\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AFA622D-9224-4219-B7F3-AAAF80F7486A}|ForgeHub\\ForgeHub.csproj|d:\\masstech\\final_project\\forgehub\\forgehub\\models\\vendorrfqmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AFA622D-9224-4219-B7F3-AAAF80F7486A}|ForgeHub\\ForgeHub.csproj|solutionrelative:forgehub\\models\\vendorrfqmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AFA622D-9224-4219-B7F3-AAAF80F7486A}|ForgeHub\\ForgeHub.csproj|d:\\masstech\\final_project\\forgehub\\forgehub\\models\\rfqitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AFA622D-9224-4219-B7F3-AAAF80F7486A}|ForgeHub\\ForgeHub.csproj|solutionrelative:forgehub\\models\\rfqitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AFA622D-9224-4219-B7F3-AAAF80F7486A}|ForgeHub\\ForgeHub.csproj|d:\\masstech\\final_project\\forgehub\\forgehub\\migrations\\20250728170020_dbset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AFA622D-9224-4219-B7F3-AAAF80F7486A}|ForgeHub\\ForgeHub.csproj|solutionrelative:forgehub\\migrations\\20250728170020_dbset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AFA622D-9224-4219-B7F3-AAAF80F7486A}|ForgeHub\\ForgeHub.csproj|d:\\masstech\\final_project\\forgehub\\forgehub\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AFA622D-9224-4219-B7F3-AAAF80F7486A}|ForgeHub\\ForgeHub.csproj|solutionrelative:forgehub\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AFA622D-9224-4219-B7F3-AAAF80F7486A}|ForgeHub\\ForgeHub.csproj|d:\\masstech\\final_project\\forgehub\\forgehub\\views\\shared\\_vendorlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1AFA622D-9224-4219-B7F3-AAAF80F7486A}|ForgeHub\\ForgeHub.csproj|solutionrelative:forgehub\\views\\shared\\_vendorlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AFA622D-9224-4219-B7F3-AAAF80F7486A}|ForgeHub\\ForgeHub.csproj|d:\\masstech\\final_project\\forgehub\\forgehub\\views\\vendor\\mysubmittedquotations.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1AFA622D-9224-4219-B7F3-AAAF80F7486A}|ForgeHub\\ForgeHub.csproj|solutionrelative:forgehub\\views\\vendor\\mysubmittedquotations.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AFA622D-9224-4219-B7F3-AAAF80F7486A}|ForgeHub\\ForgeHub.csproj|d:\\masstech\\final_project\\forgehub\\forgehub\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1AFA622D-9224-4219-B7F3-AAAF80F7486A}|ForgeHub\\ForgeHub.csproj|solutionrelative:forgehub\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AFA622D-9224-4219-B7F3-AAAF80F7486A}|ForgeHub\\ForgeHub.csproj|d:\\masstech\\final_project\\forgehub\\forgehub\\forgehub.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1AFA622D-9224-4219-B7F3-AAAF80F7486A}|ForgeHub\\ForgeHub.csproj|solutionrelative:forgehub\\forgehub.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AFA622D-9224-4219-B7F3-AAAF80F7486A}|ForgeHub\\ForgeHub.csproj|d:\\masstech\\final_project\\forgehub\\forgehub\\views\\shared\\_buyerlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1AFA622D-9224-4219-B7F3-AAAF80F7486A}|ForgeHub\\ForgeHub.csproj|solutionrelative:forgehub\\views\\shared\\_buyerlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AFA622D-9224-4219-B7F3-AAAF80F7486A}|ForgeHub\\ForgeHub.csproj|d:\\masstech\\final_project\\forgehub\\forgehub\\views\\shared\\notification.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1AFA622D-9224-4219-B7F3-AAAF80F7486A}|ForgeHub\\ForgeHub.csproj|solutionrelative:forgehub\\views\\shared\\notification.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AFA622D-9224-4219-B7F3-AAAF80F7486A}|ForgeHub\\ForgeHub.csproj|d:\\masstech\\final_project\\forgehub\\forgehub\\views\\buyer\\addrfq.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1AFA622D-9224-4219-B7F3-AAAF80F7486A}|ForgeHub\\ForgeHub.csproj|solutionrelative:forgehub\\views\\buyer\\addrfq.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AFA622D-9224-4219-B7F3-AAAF80F7486A}|ForgeHub\\ForgeHub.csproj|d:\\masstech\\final_project\\forgehub\\forgehub\\views\\buyer\\fetchrfq.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1AFA622D-9224-4219-B7F3-AAAF80F7486A}|ForgeHub\\ForgeHub.csproj|solutionrelative:forgehub\\views\\buyer\\fetchrfq.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AFA622D-9224-4219-B7F3-AAAF80F7486A}|ForgeHub\\ForgeHub.csproj|d:\\masstech\\final_project\\forgehub\\forgehub\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1AFA622D-9224-4219-B7F3-AAAF80F7486A}|ForgeHub\\ForgeHub.csproj|solutionrelative:forgehub\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AFA622D-9224-4219-B7F3-AAAF80F7486A}|ForgeHub\\ForgeHub.csproj|d:\\masstech\\final_project\\forgehub\\forgehub\\views\\admin\\editrfq.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1AFA622D-9224-4219-B7F3-AAAF80F7486A}|ForgeHub\\ForgeHub.csproj|solutionrelative:forgehub\\views\\admin\\editrfq.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AFA622D-9224-4219-B7F3-AAAF80F7486A}|ForgeHub\\ForgeHub.csproj|d:\\masstech\\final_project\\forgehub\\forgehub\\views\\admin\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1AFA622D-9224-4219-B7F3-AAAF80F7486A}|ForgeHub\\ForgeHub.csproj|solutionrelative:forgehub\\views\\admin\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AFA622D-9224-4219-B7F3-AAAF80F7486A}|ForgeHub\\ForgeHub.csproj|d:\\masstech\\final_project\\forgehub\\forgehub\\views\\auth\\lostotp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1AFA622D-9224-4219-B7F3-AAAF80F7486A}|ForgeHub\\ForgeHub.csproj|solutionrelative:forgehub\\views\\auth\\lostotp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AFA622D-9224-4219-B7F3-AAAF80F7486A}|ForgeHub\\ForgeHub.csproj|d:\\masstech\\final_project\\forgehub\\forgehub\\views\\auth\\verifylostotp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1AFA622D-9224-4219-B7F3-AAAF80F7486A}|ForgeHub\\ForgeHub.csproj|solutionrelative:forgehub\\views\\auth\\verifylostotp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AFA622D-9224-4219-B7F3-AAAF80F7486A}|ForgeHub\\ForgeHub.csproj|d:\\masstech\\final_project\\forgehub\\forgehub\\views\\auth\\showqr.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1AFA622D-9224-4219-B7F3-AAAF80F7486A}|ForgeHub\\ForgeHub.csproj|solutionrelative:forgehub\\views\\auth\\showqr.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AFA622D-9224-4219-B7F3-AAAF80F7486A}|ForgeHub\\ForgeHub.csproj|d:\\masstech\\final_project\\forgehub\\forgehub\\views\\vendor\\myfinalizedquotations.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1AFA622D-9224-4219-B7F3-AAAF80F7486A}|ForgeHub\\ForgeHub.csproj|solutionrelative:forgehub\\views\\vendor\\myfinalizedquotations.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AFA622D-9224-4219-B7F3-AAAF80F7486A}|ForgeHub\\ForgeHub.csproj|d:\\masstech\\final_project\\forgehub\\forgehub\\views\\buyer\\fetchmyfinalizedquitations.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1AFA622D-9224-4219-B7F3-AAAF80F7486A}|ForgeHub\\ForgeHub.csproj|solutionrelative:forgehub\\views\\buyer\\fetchmyfinalizedquitations.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AFA622D-9224-4219-B7F3-AAAF80F7486A}|ForgeHub\\ForgeHub.csproj|d:\\masstech\\final_project\\forgehub\\forgehub\\views\\buyer\\fetchmyquotations.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1AFA622D-9224-4219-B7F3-AAAF80F7486A}|ForgeHub\\ForgeHub.csproj|solutionrelative:forgehub\\views\\buyer\\fetchmyquotations.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AFA622D-9224-4219-B7F3-AAAF80F7486A}|ForgeHub\\ForgeHub.csproj|d:\\masstech\\final_project\\forgehub\\forgehub\\views\\buyer\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1AFA622D-9224-4219-B7F3-AAAF80F7486A}|ForgeHub\\ForgeHub.csproj|solutionrelative:forgehub\\views\\buyer\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AFA622D-9224-4219-B7F3-AAAF80F7486A}|ForgeHub\\ForgeHub.csproj|d:\\masstech\\final_project\\forgehub\\forgehub\\views\\admin\\viewvendorquotations.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1AFA622D-9224-4219-B7F3-AAAF80F7486A}|ForgeHub\\ForgeHub.csproj|solutionrelative:forgehub\\views\\admin\\viewvendorquotations.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AFA622D-9224-4219-B7F3-AAAF80F7486A}|ForgeHub\\ForgeHub.csproj|d:\\masstech\\final_project\\forgehub\\forgehub\\views\\admin\\fetchfinalizedquotaions.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1AFA622D-9224-4219-B7F3-AAAF80F7486A}|ForgeHub\\ForgeHub.csproj|solutionrelative:forgehub\\views\\admin\\fetchfinalizedquotaions.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AFA622D-9224-4219-B7F3-AAAF80F7486A}|ForgeHub\\ForgeHub.csproj|d:\\masstech\\final_project\\forgehub\\forgehub\\models\\finalizedquotation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AFA622D-9224-4219-B7F3-AAAF80F7486A}|ForgeHub\\ForgeHub.csproj|solutionrelative:forgehub\\models\\finalizedquotation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\spark\\Downloads\\RFQ.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\spark\\source\\repos\\ForgeHub\\ForgeHub\\Migrations\\20250725114219_BaseMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AFA622D-9224-4219-B7F3-AAAF80F7486A}|ForgeHub\\ForgeHub.csproj|d:\\masstech\\final_project\\forgehub\\forgehub\\migrations\\20250725170547_fordeletingrfq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AFA622D-9224-4219-B7F3-AAAF80F7486A}|ForgeHub\\ForgeHub.csproj|solutionrelative:forgehub\\migrations\\20250725170547_fordeletingrfq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AFA622D-9224-4219-B7F3-AAAF80F7486A}|ForgeHub\\ForgeHub.csproj|d:\\masstech\\final_project\\forgehub\\forgehub\\migrations\\20250725114530_basemigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AFA622D-9224-4219-B7F3-AAAF80F7486A}|ForgeHub\\ForgeHub.csproj|solutionrelative:forgehub\\migrations\\20250725114530_basemigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AFA622D-9224-4219-B7F3-AAAF80F7486A}|ForgeHub\\ForgeHub.csproj|d:\\masstech\\final_project\\forgehub\\forgehub\\migrations\\20250726105414_secretkey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AFA622D-9224-4219-B7F3-AAAF80F7486A}|ForgeHub\\ForgeHub.csproj|solutionrelative:forgehub\\migrations\\20250726105414_secretkey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AFA622D-9224-4219-B7F3-AAAF80F7486A}|ForgeHub\\ForgeHub.csproj|d:\\masstech\\final_project\\forgehub\\forgehub\\migrations\\20250728105858_isfirsttimelogintrue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AFA622D-9224-4219-B7F3-AAAF80F7486A}|ForgeHub\\ForgeHub.csproj|solutionrelative:forgehub\\migrations\\20250728105858_isfirsttimelogintrue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AFA622D-9224-4219-B7F3-AAAF80F7486A}|ForgeHub\\ForgeHub.csproj|d:\\masstech\\final_project\\forgehub\\forgehub\\migrations\\20250728151403_addrfqitemtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AFA622D-9224-4219-B7F3-AAAF80F7486A}|ForgeHub\\ForgeHub.csproj|solutionrelative:forgehub\\migrations\\20250728151403_addrfqitemtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 268,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "ForgeHub\\Controllers\\AdminController.cs",
+              "ToolTip": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "ForgeHub\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAkwFkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T20:13:01.438Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BuyerController.cs",
+              "DocumentMoniker": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\Controllers\\BuyerController.cs",
+              "RelativeDocumentMoniker": "ForgeHub\\Controllers\\BuyerController.cs",
+              "ToolTip": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\Controllers\\BuyerController.cs",
+              "RelativeToolTip": "ForgeHub\\Controllers\\BuyerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T09:29:34.04Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "package.json",
+              "DocumentMoniker": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\package.json",
+              "RelativeDocumentMoniker": "ForgeHub\\package.json",
+              "ToolTip": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\package.json",
+              "RelativeToolTip": "ForgeHub\\package.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-17T02:42:52.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\Program.cs",
+              "RelativeDocumentMoniker": "ForgeHub\\Program.cs",
+              "ToolTip": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\Program.cs",
+              "RelativeToolTip": "ForgeHub\\Program.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T07:16:50.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\Views\\Auth\\Login.cshtml",
+              "RelativeDocumentMoniker": "ForgeHub\\Views\\Auth\\Login.cshtml",
+              "ToolTip": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\Views\\Auth\\Login.cshtml",
+              "RelativeToolTip": "ForgeHub\\Views\\Auth\\Login.cshtml",
+              "ViewState": "AQIAAPgAAAAAAAAAAAAIwBABAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-26T05:13:35.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ForgeHub\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ForgeHub\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T15:09:59.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\appsettings.json",
+              "RelativeDocumentMoniker": "ForgeHub\\appsettings.json",
+              "ToolTip": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\appsettings.json",
+              "RelativeToolTip": "ForgeHub\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-25T07:16:55.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JwtTokenGenerator.cs",
+              "DocumentMoniker": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\JwtToken\\JwtTokenGenerator.cs",
+              "RelativeDocumentMoniker": "ForgeHub\\JwtToken\\JwtTokenGenerator.cs",
+              "ToolTip": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\JwtToken\\JwtTokenGenerator.cs",
+              "RelativeToolTip": "ForgeHub\\JwtToken\\JwtTokenGenerator.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T11:50:03.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "ForgeHub\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "ForgeHub\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAAACYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T14:05:52.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RFQ.cs",
+              "DocumentMoniker": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\Models\\RFQ.cs",
+              "RelativeDocumentMoniker": "ForgeHub\\Models\\RFQ.cs",
+              "ToolTip": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\Models\\RFQ.cs",
+              "RelativeToolTip": "ForgeHub\\Models\\RFQ.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T09:43:09.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AddMultipleItems.js",
+              "DocumentMoniker": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\wwwroot\\js\\AddMultipleItems.js",
+              "RelativeDocumentMoniker": "ForgeHub\\wwwroot\\js\\AddMultipleItems.js",
+              "ToolTip": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\wwwroot\\js\\AddMultipleItems.js",
+              "RelativeToolTip": "ForgeHub\\wwwroot\\js\\AddMultipleItems.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-07-28T18:10:47.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FetchRFQ.cshtml",
+              "DocumentMoniker": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\Views\\Admin\\FetchRFQ.cshtml",
+              "RelativeDocumentMoniker": "ForgeHub\\Views\\Admin\\FetchRFQ.cshtml",
+              "ToolTip": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\Views\\Admin\\FetchRFQ.cshtml",
+              "RelativeToolTip": "ForgeHub\\Views\\Admin\\FetchRFQ.cshtml",
+              "ViewState": "AgIAAPwAAAAAAAAAAAAAAOsAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-28T08:25:34.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AddRFQ.cshtml",
+              "DocumentMoniker": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\Views\\Admin\\AddRFQ.cshtml",
+              "RelativeDocumentMoniker": "ForgeHub\\Views\\Admin\\AddRFQ.cshtml",
+              "ToolTip": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\Views\\Admin\\AddRFQ.cshtml",
+              "RelativeToolTip": "ForgeHub\\Views\\Admin\\AddRFQ.cshtml",
+              "ViewState": "AgIAAPMAAAAAAAAAAAAAAB8BAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-25T14:47:06.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "VendorController.cs",
+              "DocumentMoniker": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\Controllers\\VendorController.cs",
+              "RelativeDocumentMoniker": "ForgeHub\\Controllers\\VendorController.cs",
+              "ToolTip": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\Controllers\\VendorController.cs",
+              "RelativeToolTip": "ForgeHub\\Controllers\\VendorController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T10:43:33.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AddUserController.cs",
+              "DocumentMoniker": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\Controllers\\AddUserController.cs",
+              "RelativeDocumentMoniker": "ForgeHub\\Controllers\\AddUserController.cs",
+              "ToolTip": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\Controllers\\AddUserController.cs",
+              "RelativeToolTip": "ForgeHub\\Controllers\\AddUserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T19:17:22.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Users.js",
+              "DocumentMoniker": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\wwwroot\\js\\Users.js",
+              "RelativeDocumentMoniker": "ForgeHub\\wwwroot\\js\\Users.js",
+              "ToolTip": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\wwwroot\\js\\Users.js",
+              "RelativeToolTip": "ForgeHub\\wwwroot\\js\\Users.js",
+              "ViewState": "AgIAAJgAAAAAAAAAAAAwwLoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-07-27T19:21:47.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SelectAll.js",
+              "DocumentMoniker": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\wwwroot\\js\\SelectAll.js",
+              "RelativeDocumentMoniker": "ForgeHub\\wwwroot\\js\\SelectAll.js",
+              "ToolTip": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\wwwroot\\js\\SelectAll.js",
+              "RelativeToolTip": "ForgeHub\\wwwroot\\js\\SelectAll.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-07-29T03:42:28.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\Views\\AddUser\\Index.cshtml",
+              "RelativeDocumentMoniker": "ForgeHub\\Views\\AddUser\\Index.cshtml",
+              "ToolTip": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\Views\\AddUser\\Index.cshtml",
+              "RelativeToolTip": "ForgeHub\\Views\\AddUser\\Index.cshtml",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAF0AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-27T19:17:53.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "VerifyOtp.cshtml",
+              "DocumentMoniker": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\Views\\Auth\\VerifyOtp.cshtml",
+              "RelativeDocumentMoniker": "ForgeHub\\Views\\Auth\\VerifyOtp.cshtml",
+              "ToolTip": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\Views\\Auth\\VerifyOtp.cshtml",
+              "RelativeToolTip": "ForgeHub\\Views\\Auth\\VerifyOtp.cshtml",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAwwBMBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-27T17:22:07.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\Views\\Vendor\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "ForgeHub\\Views\\Vendor\\Dashboard.cshtml",
+              "ToolTip": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\Views\\Vendor\\Dashboard.cshtml",
+              "RelativeToolTip": "ForgeHub\\Views\\Vendor\\Dashboard.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-25T21:28:47.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "VendorRFQMapping.cs",
+              "DocumentMoniker": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\Models\\VendorRFQMapping.cs",
+              "RelativeDocumentMoniker": "ForgeHub\\Models\\VendorRFQMapping.cs",
+              "ToolTip": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\Models\\VendorRFQMapping.cs",
+              "RelativeToolTip": "ForgeHub\\Models\\VendorRFQMapping.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T11:33:03.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "RFQItem.cs",
+              "DocumentMoniker": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\Models\\RFQItem.cs",
+              "RelativeDocumentMoniker": "ForgeHub\\Models\\RFQItem.cs",
+              "ToolTip": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\Models\\RFQItem.cs",
+              "RelativeToolTip": "ForgeHub\\Models\\RFQItem.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAowBUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T15:09:30.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "20250728151403_AddRFQItemTable.cs",
+              "DocumentMoniker": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\Migrations\\20250728151403_AddRFQItemTable.cs",
+              "RelativeDocumentMoniker": "ForgeHub\\Migrations\\20250728151403_AddRFQItemTable.cs",
+              "ToolTip": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\Migrations\\20250728151403_AddRFQItemTable.cs",
+              "RelativeToolTip": "ForgeHub\\Migrations\\20250728151403_AddRFQItemTable.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBgAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T15:14:03.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20250728170020_Dbset.cs",
+              "DocumentMoniker": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\Migrations\\20250728170020_Dbset.cs",
+              "RelativeDocumentMoniker": "ForgeHub\\Migrations\\20250728170020_Dbset.cs",
+              "ToolTip": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\Migrations\\20250728170020_Dbset.cs",
+              "RelativeToolTip": "ForgeHub\\Migrations\\20250728170020_Dbset.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T17:00:21.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\Models\\User.cs",
+              "RelativeDocumentMoniker": "ForgeHub\\Models\\User.cs",
+              "ToolTip": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\Models\\User.cs",
+              "RelativeToolTip": "ForgeHub\\Models\\User.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAuwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T09:51:23.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "_VendorLayout.cshtml",
+              "DocumentMoniker": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\Views\\Shared\\_VendorLayout.cshtml",
+              "RelativeDocumentMoniker": "ForgeHub\\Views\\Shared\\_VendorLayout.cshtml",
+              "ToolTip": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\Views\\Shared\\_VendorLayout.cshtml",
+              "RelativeToolTip": "ForgeHub\\Views\\Shared\\_VendorLayout.cshtml",
+              "ViewState": "AgIAAFMAAAAAAAAAAADwv10AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-27T15:13:17.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "MySubmittedQuotations.cshtml",
+              "DocumentMoniker": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\Views\\Vendor\\MySubmittedQuotations.cshtml",
+              "RelativeDocumentMoniker": "ForgeHub\\Views\\Vendor\\MySubmittedQuotations.cshtml",
+              "ToolTip": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\Views\\Vendor\\MySubmittedQuotations.cshtml",
+              "RelativeToolTip": "ForgeHub\\Views\\Vendor\\MySubmittedQuotations.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-28T13:57:15.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "_AdminLayout.cshtml",
+              "DocumentMoniker": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "ForgeHub\\Views\\Shared\\_AdminLayout.cshtml",
+              "ToolTip": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeToolTip": "ForgeHub\\Views\\Shared\\_AdminLayout.cshtml",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAEkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-27T10:54:51.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ForgeHub.csproj",
+              "DocumentMoniker": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\ForgeHub.csproj",
+              "RelativeDocumentMoniker": "ForgeHub\\ForgeHub.csproj",
+              "ToolTip": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\ForgeHub.csproj",
+              "RelativeToolTip": "ForgeHub\\ForgeHub.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-25T10:31:16.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "20250728105858_IsFirstTimeLoginTrue.cs",
+              "DocumentMoniker": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\Migrations\\20250728105858_IsFirstTimeLoginTrue.cs",
+              "RelativeDocumentMoniker": "ForgeHub\\Migrations\\20250728105858_IsFirstTimeLoginTrue.cs",
+              "ToolTip": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\Migrations\\20250728105858_IsFirstTimeLoginTrue.cs",
+              "RelativeToolTip": "ForgeHub\\Migrations\\20250728105858_IsFirstTimeLoginTrue.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T10:58:58.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Notification.cshtml",
+              "DocumentMoniker": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\Views\\Shared\\Notification.cshtml",
+              "RelativeDocumentMoniker": "ForgeHub\\Views\\Shared\\Notification.cshtml",
+              "ToolTip": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\Views\\Shared\\Notification.cshtml",
+              "RelativeToolTip": "ForgeHub\\Views\\Shared\\Notification.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-27T18:51:00.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "_BuyerLayout.cshtml",
+              "DocumentMoniker": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\Views\\Shared\\_BuyerLayout.cshtml",
+              "RelativeDocumentMoniker": "ForgeHub\\Views\\Shared\\_BuyerLayout.cshtml",
+              "ToolTip": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\Views\\Shared\\_BuyerLayout.cshtml",
+              "RelativeToolTip": "ForgeHub\\Views\\Shared\\_BuyerLayout.cshtml",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAAAGkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-27T13:29:21.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "AddRFQ.cshtml",
+              "DocumentMoniker": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\Views\\Buyer\\AddRFQ.cshtml",
+              "RelativeDocumentMoniker": "ForgeHub\\Views\\Buyer\\AddRFQ.cshtml",
+              "ToolTip": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\Views\\Buyer\\AddRFQ.cshtml",
+              "RelativeToolTip": "ForgeHub\\Views\\Buyer\\AddRFQ.cshtml",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAF4AAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-25T19:34:52.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "FetchRFQ.cshtml",
+              "DocumentMoniker": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\Views\\Buyer\\FetchRFQ.cshtml",
+              "RelativeDocumentMoniker": "ForgeHub\\Views\\Buyer\\FetchRFQ.cshtml",
+              "ToolTip": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\Views\\Buyer\\FetchRFQ.cshtml",
+              "RelativeToolTip": "ForgeHub\\Views\\Buyer\\FetchRFQ.cshtml",
+              "ViewState": "AgIAAOEAAAAAAAAAAAAAABIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-25T19:36:05.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "EditRFQ.cshtml",
+              "DocumentMoniker": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\Views\\Admin\\EditRFQ.cshtml",
+              "RelativeDocumentMoniker": "ForgeHub\\Views\\Admin\\EditRFQ.cshtml",
+              "ToolTip": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\Views\\Admin\\EditRFQ.cshtml",
+              "RelativeToolTip": "ForgeHub\\Views\\Admin\\EditRFQ.cshtml",
+              "ViewState": "AgIAAOEAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-25T16:25:58.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ForgeHub\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ForgeHub\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-26T05:50:52.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\Views\\Admin\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "ForgeHub\\Views\\Admin\\Dashboard.cshtml",
+              "ToolTip": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\Views\\Admin\\Dashboard.cshtml",
+              "RelativeToolTip": "ForgeHub\\Views\\Admin\\Dashboard.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-25T14:10:17.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ShowQR.cshtml",
+              "DocumentMoniker": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\Views\\Auth\\ShowQR.cshtml",
+              "RelativeDocumentMoniker": "ForgeHub\\Views\\Auth\\ShowQR.cshtml",
+              "ToolTip": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\Views\\Auth\\ShowQR.cshtml",
+              "RelativeToolTip": "ForgeHub\\Views\\Auth\\ShowQR.cshtml",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAAwJ0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-27T17:21:24.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "LostOtP.cshtml",
+              "DocumentMoniker": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\Views\\Auth\\LostOtP.cshtml",
+              "RelativeDocumentMoniker": "ForgeHub\\Views\\Auth\\LostOtP.cshtml",
+              "ToolTip": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\Views\\Auth\\LostOtP.cshtml",
+              "RelativeToolTip": "ForgeHub\\Views\\Auth\\LostOtP.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHcAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-27T17:23:33.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "VerifyLostOtp.cshtml",
+              "DocumentMoniker": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\Views\\Auth\\VerifyLostOtp.cshtml",
+              "RelativeDocumentMoniker": "ForgeHub\\Views\\Auth\\VerifyLostOtp.cshtml",
+              "ToolTip": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\Views\\Auth\\VerifyLostOtp.cshtml",
+              "RelativeToolTip": "ForgeHub\\Views\\Auth\\VerifyLostOtp.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-27T17:24:26.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "MyFinalizedQuotations.cshtml",
+              "DocumentMoniker": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\Views\\Vendor\\MyFinalizedQuotations.cshtml",
+              "RelativeDocumentMoniker": "ForgeHub\\Views\\Vendor\\MyFinalizedQuotations.cshtml",
+              "ToolTip": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\Views\\Vendor\\MyFinalizedQuotations.cshtml",
+              "RelativeToolTip": "ForgeHub\\Views\\Vendor\\MyFinalizedQuotations.cshtml",
+              "ViewState": "AgIAAGMAAAAAAAAAAIBJwIEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-26T15:48:28.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "FetchMyFinalizedQuitations.cshtml",
+              "DocumentMoniker": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\Views\\Buyer\\FetchMyFinalizedQuitations.cshtml",
+              "RelativeDocumentMoniker": "ForgeHub\\Views\\Buyer\\FetchMyFinalizedQuitations.cshtml",
+              "ToolTip": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\Views\\Buyer\\FetchMyFinalizedQuitations.cshtml",
+              "RelativeToolTip": "ForgeHub\\Views\\Buyer\\FetchMyFinalizedQuitations.cshtml",
+              "ViewState": "AgIAAEYAAAAAAAAAAIBJwIQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-26T14:54:43.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "FetchMyQuotations.cshtml",
+              "DocumentMoniker": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\Views\\Buyer\\FetchMyQuotations.cshtml",
+              "RelativeDocumentMoniker": "ForgeHub\\Views\\Buyer\\FetchMyQuotations.cshtml",
+              "ToolTip": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\Views\\Buyer\\FetchMyQuotations.cshtml",
+              "RelativeToolTip": "ForgeHub\\Views\\Buyer\\FetchMyQuotations.cshtml",
+              "ViewState": "AgIAAE8AAAAAAAAAAIBJwF0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-27T13:41:40.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\Views\\Buyer\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "ForgeHub\\Views\\Buyer\\Dashboard.cshtml",
+              "ToolTip": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\Views\\Buyer\\Dashboard.cshtml",
+              "RelativeToolTip": "ForgeHub\\Views\\Buyer\\Dashboard.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-25T19:34:26.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "FetchFinalizedQuotaions.cshtml",
+              "DocumentMoniker": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\Views\\Admin\\FetchFinalizedQuotaions.cshtml",
+              "RelativeDocumentMoniker": "ForgeHub\\Views\\Admin\\FetchFinalizedQuotaions.cshtml",
+              "ToolTip": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\Views\\Admin\\FetchFinalizedQuotaions.cshtml",
+              "RelativeToolTip": "ForgeHub\\Views\\Admin\\FetchFinalizedQuotaions.cshtml",
+              "ViewState": "AgIAAGsAAAAAAAAAAIBJwHkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-26T12:04:59.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ViewVendorQuotations.cshtml",
+              "DocumentMoniker": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\Views\\Admin\\ViewVendorQuotations.cshtml",
+              "RelativeDocumentMoniker": "ForgeHub\\Views\\Admin\\ViewVendorQuotations.cshtml",
+              "ToolTip": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\Views\\Admin\\ViewVendorQuotations.cshtml",
+              "RelativeToolTip": "ForgeHub\\Views\\Admin\\ViewVendorQuotations.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAxwLEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-26T10:13:03.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "FinalizedQuotation.cs",
+              "DocumentMoniker": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\Models\\FinalizedQuotation.cs",
+              "RelativeDocumentMoniker": "ForgeHub\\Models\\FinalizedQuotation.cs",
+              "ToolTip": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\Models\\FinalizedQuotation.cs",
+              "RelativeToolTip": "ForgeHub\\Models\\FinalizedQuotation.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAUwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T09:43:45.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "20250726105414_SecretKey.cs",
+              "DocumentMoniker": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\Migrations\\20250726105414_SecretKey.cs",
+              "RelativeDocumentMoniker": "ForgeHub\\Migrations\\20250726105414_SecretKey.cs",
+              "ToolTip": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\Migrations\\20250726105414_SecretKey.cs",
+              "RelativeToolTip": "ForgeHub\\Migrations\\20250726105414_SecretKey.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T10:54:14.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "20250725170547_ForDeletingRfq.cs",
+              "DocumentMoniker": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\Migrations\\20250725170547_ForDeletingRfq.cs",
+              "RelativeDocumentMoniker": "ForgeHub\\Migrations\\20250725170547_ForDeletingRfq.cs",
+              "ToolTip": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\Migrations\\20250725170547_ForDeletingRfq.cs",
+              "RelativeToolTip": "ForgeHub\\Migrations\\20250725170547_ForDeletingRfq.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T17:05:47.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "20250725114530_BaseMigration.cs",
+              "DocumentMoniker": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\Migrations\\20250725114530_BaseMigration.cs",
+              "RelativeDocumentMoniker": "ForgeHub\\Migrations\\20250725114530_BaseMigration.cs",
+              "ToolTip": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\Migrations\\20250725114530_BaseMigration.cs",
+              "RelativeToolTip": "ForgeHub\\Migrations\\20250725114530_BaseMigration.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwKUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T11:45:31.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "RFQ.cs",
+              "DocumentMoniker": "C:\\Users\\spark\\Downloads\\RFQ.cs",
+              "ToolTip": "C:\\Users\\spark\\Downloads\\RFQ.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAACBjwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T12:43:33.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "20250725114219_BaseMigration.cs",
+              "DocumentMoniker": "C:\\Users\\spark\\source\\repos\\ForgeHub\\ForgeHub\\Migrations\\20250725114219_BaseMigration.cs",
+              "ToolTip": "C:\\Users\\spark\\source\\repos\\ForgeHub\\ForgeHub\\Migrations\\20250725114219_BaseMigration.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T11:42:19.556Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 132,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 122,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

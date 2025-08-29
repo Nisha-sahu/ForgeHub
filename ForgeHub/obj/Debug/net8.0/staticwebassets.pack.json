@@ -1,0 +1,329 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ForgeHub.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ForgeHub.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\wwwroot\\images\\Logo.png",
+      "PackagePath": "staticwebassets\\images\\Logo.png"
+    },
+    {
+      "Id": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\wwwroot\\images\\Logo2.png",
+      "PackagePath": "staticwebassets\\images\\Logo2.png"
+    },
+    {
+      "Id": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\wwwroot\\images\\Logo3.png",
+      "PackagePath": "staticwebassets\\images\\Logo3.png"
+    },
+    {
+      "Id": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\wwwroot\\images\\Logo4.png",
+      "PackagePath": "staticwebassets\\images\\Logo4.png"
+    },
+    {
+      "Id": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\wwwroot\\images\\User.png",
+      "PackagePath": "staticwebassets\\images\\User.png"
+    },
+    {
+      "Id": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\wwwroot\\images\\login.jpg",
+      "PackagePath": "staticwebassets\\images\\login.jpg"
+    },
+    {
+      "Id": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\wwwroot\\images\\logoicon.png",
+      "PackagePath": "staticwebassets\\images\\logoicon.png"
+    },
+    {
+      "Id": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\wwwroot\\images\\lostotp.png",
+      "PackagePath": "staticwebassets\\images\\lostotp.png"
+    },
+    {
+      "Id": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\wwwroot\\images\\otp.png",
+      "PackagePath": "staticwebassets\\images\\otp.png"
+    },
+    {
+      "Id": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\wwwroot\\images\\settings-gears.png",
+      "PackagePath": "staticwebassets\\images\\settings-gears.png"
+    },
+    {
+      "Id": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\wwwroot\\images\\show-QR.png",
+      "PackagePath": "staticwebassets\\images\\show-QR.png"
+    },
+    {
+      "Id": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\wwwroot\\images\\verifyotp.png",
+      "PackagePath": "staticwebassets\\images\\verifyotp.png"
+    },
+    {
+      "Id": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\wwwroot\\js\\AddMultipleItems.js",
+      "PackagePath": "staticwebassets\\js\\AddMultipleItems.js"
+    },
+    {
+      "Id": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\wwwroot\\js\\SelectAll.js",
+      "PackagePath": "staticwebassets\\js\\SelectAll.js"
+    },
+    {
+      "Id": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\wwwroot\\js\\Users.js",
+      "PackagePath": "staticwebassets\\js\\Users.js"
+    },
+    {
+      "Id": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\masstech\\Final_project\\ForgeHub\\ForgeHub\\wwwroot\\models\\forgehub_logo.glb",
+      "PackagePath": "staticwebassets\\models\\forgehub_logo.glb"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ForgeHub.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ForgeHub.props",
+      "PackagePath": "build\\ForgeHub.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ForgeHub.props",
+      "PackagePath": "buildMultiTargeting\\ForgeHub.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ForgeHub.props",
+      "PackagePath": "buildTransitive\\ForgeHub.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
